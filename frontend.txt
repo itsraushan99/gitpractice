@@ -1,2 +1,3 @@
 v1. This is frontend initilization
 v2. update frontend added new tables display
+v3 added navigation bar
